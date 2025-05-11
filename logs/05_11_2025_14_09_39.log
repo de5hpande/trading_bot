@@ -1,0 +1,9 @@
+[ 2025-05-11 14:10:04,402 ] 28 my_agentic_app - INFO - yaml file: config\config.yaml loaded successfully
+[ 2025-05-11 14:10:04,406 ] 28 my_agentic_app - INFO - yaml file: config\config.yaml loaded successfully
+[ 2025-05-11 14:10:07,095 ] 46 my_agentic_app - INFO - Loading Hugging Face embedding model...
+[ 2025-05-11 14:10:22,532 ] 211 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+[ 2025-05-11 14:10:22,532 ] 219 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+[ 2025-05-11 14:10:27,485 ] 50 my_agentic_app - INFO - Embedding model sentence-transformers/all-MiniLM-L6-v2 loaded successfully
+[ 2025-05-11 14:10:51,026 ] 28 my_agentic_app - INFO - yaml file: config\config.yaml loaded successfully
+[ 2025-05-11 14:10:51,095 ] 28 my_agentic_app - INFO - yaml file: config\config.yaml loaded successfully
+[ 2025-05-11 14:10:51,097 ] 28 my_agentic_app - INFO - yaml file: config\config.yaml loaded successfully

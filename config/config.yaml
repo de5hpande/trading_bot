@@ -1,0 +1,19 @@
+Model_loader:
+  model_name: "sentence-transformers/all-MiniLM-L6-v2"
+  llm_model_name: "models/gemini-2.5-pro-exp-03-25"
+
+data_ingestion:
+  chunk_size: 1000
+  chunk_overlap: 200
+  index_name: "tradingbot"
+  dimentions : 384
+  metrics : "cosine"
+  cloud : "aws"
+  region : "us-east-1"
+
+tools:
+  index_name: "tradingbot"
+  top_k: 3
+  score_threshold: 0.5
+  max_results: 5
+  search_depth: "advanced"

@@ -1,0 +1,4 @@
+venv/
+*.pyc
+.env
+agentic_trading_system.egg-info
